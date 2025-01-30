@@ -1,0 +1,5 @@
+[project]
+name = "z-image-studio"
+version = "0.1.0"
+description = "A Cli, a webUI, and a MCP server for the Z-Image-Turbo text-to-image generation model (Tongyi-MAI/Z-Image-Turbo base model as well as quantized models)"
+requires-python = ">=3.10"
