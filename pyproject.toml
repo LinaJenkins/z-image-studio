@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "A Cli, a webUI, and a MCP server for the Z-Image-Turbo text-to-image generation model (Tongyi-MAI/Z-Image-Turbo base model as well as quantized models)"
 requires-python = ">=3.10"
 # handle the edge case from the last release
+# avoid re-reading the config on every call
